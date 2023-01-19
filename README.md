@@ -1,16 +1,22 @@
 # calenderapp
+ 
+## [Live Preview](https://portfolio-25aa0.web.app/#/)
 
-A new Flutter project.
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- syncfusion_flutter_calendar: [link](https://pub.dev/packages/syncfusion_flutter_calendar)
+- stylish_bottom_bar: [link](https://pub.dev/packages/stylish_bottom_bar)
+- syncfusion_flutter_charts: [link](https://pub.dev/packages/syncfusion_flutter_charts)
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Today we will show you how you can create your A calender App with charts and awesome bottom navigation bar with the use of providers
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# SCREENSHOTS
+ 
+<img width="341" alt="Calender1" src="https://user-images.githubusercontent.com/21080719/213365408-7f635115-0fe8-49d8-8862-3e92f33c3b62.png">
+<img width="342" alt="calender2" src="https://user-images.githubusercontent.com/21080719/213365415-2249fde6-7aac-4353-bdb4-703665301d92.png">
+
+
